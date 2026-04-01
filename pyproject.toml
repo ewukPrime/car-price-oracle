@@ -12,4 +12,5 @@ dependencies = [
     "pandas>=3.0.1",
     "pathlib>=1.0.1",
     "pydantic>=2.12.5",
+    "sqlalchemy>=2.0.48",
 ]
